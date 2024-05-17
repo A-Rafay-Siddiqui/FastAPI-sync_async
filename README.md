@@ -1,5 +1,6 @@
 # FAST API Sync_Async (Sych-Test)
-# Abdul Rafay Siddiqui - siddiqui.arafay01@gmail.com
+
+## Abdul Rafay Siddiqui - siddiqui.arafay01@gmail.com
 
 ## Overview
 
