@@ -1,0 +1,1 @@
+# FastAPI-sync_async
